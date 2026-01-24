@@ -1,0 +1,1 @@
+Model dokształcony na zbiorze B osiąga wyższe wyniki we wszystkich metrykach: ROC AUC wzrósł z ~0.83 do ~0.89, Accuracy z ~0.79 do ~0.83, a Recall z ~0.70 do ~0.77. Oznacza to, że model lepiej rozpoznaje przypadki pozytywne, przy zachowaniu dobrej precyzji i ogólnej równowagi. Dokształcenie modelu przyniosło wyraźną poprawę jakości predykcji.
